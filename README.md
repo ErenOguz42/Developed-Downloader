@@ -4,7 +4,7 @@ A powerful, standalone media downloader built with Python.
 
 ### 🌟 Features
 - **Zero Configuration:** Automatically handles `yt-dlp` and `FFmpeg`.
-- **High Quality:** Download videos up to 4K or convert to 192kbps MP3.
+- **High Quality:** Download videos up to 8K or convert to 192kbps MP3.
 - **Smart Recovery:** Self-repairs if components are missing.
 - **Modern UI:** Clean, dark-themed industrial interface.
 
